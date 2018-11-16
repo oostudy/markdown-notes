@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+	使用`:---------:`居中
+	使用`:----------`居左
+	使用`----------:`居右
+	| 第一列       | 第二列         | 第三列        |
+	|:------------:| :------------:|:-------------:|
+	| 第一列文本居中 | 第二列文本居中  | 第三列文本居中 | 
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md.table</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>表格</description>
+</snippet>

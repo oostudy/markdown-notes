@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+	![Alt](${1:图片位置}=${1:图片大小100x100})
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md.image1</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>带尺寸的图片</description>
+</snippet>

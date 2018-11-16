@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+	*[${1:注释文本}]: ${2:注释的解释}
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md.zhushi</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>注释文本</description>
+</snippet>

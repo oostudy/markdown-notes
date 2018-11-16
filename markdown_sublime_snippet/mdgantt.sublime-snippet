@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+	```mermaid
+	gantt
+	        dateFormat  YYYY-MM-DD
+	        title Adding GANTT diagram functionality to mermaid
+	        section 现有任务
+	        已完成               :done,    des1, 2014-01-06,2014-01-08
+	        进行中               :active,  des2, 2014-01-09, 3d
+	        计划一               :         des3, after des2, 5d
+	        计划二               :         des4, after des3, 5d
+	```
+    提示：甘特图语法，参考 https://mermaidjs.github.io/
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md.gantt</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>甘特图</description>
+</snippet>

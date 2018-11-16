@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+	```mermaid
+	flowchat
+	st=>start: 开始
+	e=>end: 结束
+	op=>operation: 我的操作
+	cond=>condition: 确认？
+
+	st->op->cond
+	cond(yes)->e
+	cond(no)->op
+	```
+	提示更多flowchart流程图参考：http://adrai.github.io/flowchart.js/
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md.liuchengtu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>FLowchart 流程图</description>
+</snippet>

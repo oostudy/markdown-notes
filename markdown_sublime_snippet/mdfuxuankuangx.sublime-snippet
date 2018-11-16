@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+	- [x]${1:复选框}
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md.fuxuankuangx</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>复选框 选中</description>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+	提示
+	LaTeX数学表达式(https://khan.github.io/KaTeX/)
+	更多数学公式(http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+	Gamma公式
+	\$\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N\$ \$\$ \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,. \$\$
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md.math</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>数学公式 KaTeX</description>
+</snippet>

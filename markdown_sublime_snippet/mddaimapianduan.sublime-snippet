@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+	```
+	javascript cpp c h py lua java sql ...
+		${1:代码片段}
+	```
+	]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>md.code</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>代码片段</description>
+</snippet>
